@@ -111,9 +111,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-<img src="Pavan1.png" width="400">                        
-
-<img src="Pavan2.png" width="400">
+<img src="Pavan1.png" width="400"> <img src="Pavan2.png" width="400">
 
 ## RESULT:
 
